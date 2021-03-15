@@ -90,16 +90,16 @@ hr {
 .gif2 {
   position: absolute;
   right: 10%;
-  height: 250px;
-  width: 350px;
+  height: 150px;
+  width: 150px;
   float: right;
 }
 
 .gif3 {
   position: absolute;
   left: 10%;
-  height: 250px;
-  width: 350px;
+  height: 150px;
+  width: 150px;
   float: left;
 }
 
