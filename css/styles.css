@@ -57,7 +57,7 @@ strong {
 .self {
   background-color: white;
   font-weight: normal;
-  margin: 100px 0;
+  margin-top: 100px;
 }
 
 hr {
@@ -118,7 +118,9 @@ hr {
 
 .skills {
   background-color: white;
-  ;
+  line-height: 2;
+  font-weight: bold;
+  margin: 0 auto;
 }
 
 .contacts {
@@ -126,10 +128,6 @@ hr {
   margin: 100px 0;
 }
 
-.skills {
-  line-height: 2;
-  font-weight: bold;
-}
 .btn {
   background: #004d80;
   background-image: -webkit-linear-gradient(top, #004d80, #0d507a);
@@ -249,8 +247,10 @@ hr {
 .b1{
   position: relative;
   display: inline-block;
+  margin-top: 0px;
 }
 .b2{
   position: relative;
   display: inline-block;
+  margin-top: 0;
 }
