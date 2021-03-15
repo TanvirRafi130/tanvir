@@ -42,7 +42,7 @@ left: 50%;}
 }
 .c4{
   position: absolute;
-  left: 30%;
+  left: 15%;
 }
 .self{
   background-color: white;;
@@ -53,8 +53,8 @@ hr{
   border-color: grey;
 }
 .skillpng{
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
 }
 .skgif{
   position: absolute;
