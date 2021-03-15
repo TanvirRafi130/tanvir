@@ -29,9 +29,8 @@ p{
   border: solid 10px;*/
 /*  position: relative;
   display: inline-block;*/
-padding-top: 100px;
-width:100%;
-height: 100%;
+
+
 
 }
 .c2{position: absolute;
@@ -46,10 +45,8 @@ left: 50%;}
   left: 30%;
 }
 .self{
-  position: absolute;
   background-color: white;;
-  width:100%;
-  height: 100%;
+
 }
 hr{
   border-style: dotted;
@@ -62,9 +59,10 @@ hr{
 .skgif{
   position: absolute;
   right: 10%;
-  top: 55%;
   /*border-style: dotted;*/
   border-radius: 50px;
+  height: 150px;
+  width: 150px;
 }
 .skgif:hover{
   background-color: red;
@@ -72,6 +70,8 @@ hr{
 .gif2{
   position: absolute;
   right: 10%;
+  height: 250px;
+  width: 350px;
 }
 .gif3{
   position: absolute;
@@ -82,10 +82,19 @@ hr{
 .skgif2{
   position: absolute;
   left: 10%;
-  top: 65%;
   /*border-style: dotted;*/
   border-radius: 50px;
+  height: 150px;
+  width: 150px;
 }
 .skgif2:hover{
   background-color: blue;
+}
+.skills{
+  background-color: white;;
+
+}
+.contacts{
+  background-color: white;;
+
 }
