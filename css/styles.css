@@ -1,0 +1,91 @@
+body{
+
+  margin: 0;
+  background-color: white;
+  text-align: center;
+
+}
+ul{
+  margin: auto;
+  width: 20%;
+}
+h1{
+  width: 50%;
+  margin:0 auto 0 auto;
+  font-family: 'Akaya Telivigala', cursive;
+  color: red;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+}
+p{
+  font-family: 'Dancing Script', cursive;
+
+}
+.d1{
+  background-color: #caf7e3;
+/*  height: 200px;
+  width: 200px;
+  border: solid 10px;*/
+/*  position: relative;
+  display: inline-block;*/
+padding-top: 100px;
+width:100%;
+height: 100%;
+
+}
+.c2{position: absolute;
+left: 50%;}
+.c1{
+  position: absolute;
+  top: 50px;
+  left: 70%;
+}
+.c4{
+  position: absolute;
+  left: 30%;
+}
+.self{
+  position: absolute;
+  background-color: white;;
+  width:100%;
+  height: 100%;
+}
+hr{
+  border-style: dotted;
+  border-color: grey;
+}
+.skillpng{
+  height: 100px;
+  width: 100px;
+}
+.skgif{
+  position: absolute;
+  right: 10%;
+  top: 65%;
+  /*border-style: dotted;*/
+  border-radius: 50px;
+}
+.skgif:hover{
+  background-color: red;
+}
+.gif2{
+  position: absolute;
+  right: 10%;
+}
+.gif3{
+  position: absolute;
+  left: 10%;
+  height: 250px;
+  width: 350px;
+}
+.skgif2{
+  position: absolute;
+  left: 10%;
+  top: 65%;
+  /*border-style: dotted;*/
+  border-radius: 50px;
+}
+.skgif2:hover{
+  background-color: blue;
+}
