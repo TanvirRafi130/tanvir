@@ -246,3 +246,11 @@ hr {
   background-image: linear-gradient(to bottom, #b80b0b, #413599);
   text-decoration: none;
 }
+.b1{
+  position: relative;
+  display: inline-block;
+}
+.b2{
+  position: relative;
+  display: inline-block;
+}
